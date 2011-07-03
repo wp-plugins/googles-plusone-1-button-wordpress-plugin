@@ -4,7 +4,7 @@
 Plugin Name: Google's PlusOne (+1) Buttons
 Plugin URI: http://www.teknoblogo.com/
 Description: Adds Google's new PLUSONE (+1) button to your posts ! Author : <a href="http://www.teknoblogo.com">teknoblogo.com</a><br /> <strong>Don't forgot to re-configure plugin !</strong>
-Version: 1.0
+Version: 1.1
 Author: Eray Alakese
 Author URI: http://www.teknoblogo.com
 License: GPL2
