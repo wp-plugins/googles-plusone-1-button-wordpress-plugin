@@ -113,7 +113,7 @@ function gpb_admin_options() {
    	 
    	 	<hr />
     		<em>If you <iframe src="http://www.facebook.com/plugins/like.php?app_id=190028181045651&amp;href=http%3A%2F%2Fwordpress.org%2Fextend%2Fplugins%2Fgoogles-plusone-1-button-wordpress-plugin%2F&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe> this plugin, please <a href="http://wordpress.org/extend/plugins/googles-plusone-1-button-wordpress-plugin/">vote</a> or <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://wordpress.org/extend/plugins/googles-plusone-1-button-wordpress-plugin/" data-text="First Wordpress plugin for Google's PlusOne (+1) Plugin" data-count="horizontal" data-related="teknoblogo:author of plugin">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script> it .
-    		Author : <a href="http://www.teknoblogo.com">Eray Alakese</a>
+    		Author : <a href="http://www.teknoblogo.com">Eray Alakese</a> (<iframe src="http://www.facebook.com/plugins/like.php?app_id=199767433404733&amp;href=http%3A%2F%2Fwww.facebook.com%2Fteknoblogo&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>)
 	    	You can <a href="mailto:info@teknoblogo.com">mail me</a> for bugs, <a href="http://www.twitter.com/teknoblogo">follow me</a> for upgrades, thanks.</em>
 
 
