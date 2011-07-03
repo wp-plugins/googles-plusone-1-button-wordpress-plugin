@@ -3,8 +3,8 @@ Contributors: erayalakese
 Donate link: http://www.teknoblogo.com/
 Tags: google,plusone,+1,button
 Requires at least: 3.0.0
-Tested up to: 3.1.3
-Stable tag: 1.0
+Tested up to: 3.1.4
+Stable tag: 1.1
 
 Adds Google's PlusOne (+1) button to your blog posts ! Or you can put it manually.
 
